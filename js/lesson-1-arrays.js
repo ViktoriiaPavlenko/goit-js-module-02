@@ -53,14 +53,14 @@
 
 
 
-const numbers = [12, 23, 34, 45]
+// const numbers = [12, 23, 34, 45]
 // console.log('numbers', numbers)
 
-const myNumbers = numbers
+// const myNumbers = numbers
 // console.log('myNumbers', myNumbers)
 
 // а теперь изменю значение первого элемента в исходном массиве
-numbers[0] = 100500
+// numbers[0] = 100500
 // console.log('numbers', numbers)
 // console.log('myNumbers', myNumbers)
 
@@ -173,3 +173,4 @@ console.log(thirdPiece)
 const fullArray = firstPiece.concat(secondPiece, thirdPiece)
 
 console.log(fullArray)
+
